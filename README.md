@@ -1,2 +1,11 @@
-# Labration-1
-En textbaserad interaktiv upplevelse av Ellinor Carlberg.
+# Lab-1
+A text-based interactive experience by Ellinor Carlberg.
+
+Game titel:
+
+Description:
+
+
+Link to Github repot:
+
+Demo link (from Github pages):
